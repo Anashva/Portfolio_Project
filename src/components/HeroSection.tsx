@@ -48,7 +48,7 @@ export default function HeroSection() {
           className="text-muted-foreground text-lg sm:text-xl max-w-xl mx-auto mb-8"
         >
           B.Tech CSE student at GLA University. Building impactful web applications
-          and solving 1200+ problems across competitive programming platforms.
+          and solved 1200+ problems across competitive programming platforms.
         </motion.p>
 
 
